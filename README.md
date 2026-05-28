@@ -1,2 +1,0 @@
-# scootron
-proyecto integrador
